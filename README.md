@@ -1,5 +1,5 @@
 # Stock-Market-Analysis
-**Dashboard**
+**Dashboard** <br>
 **Project Overview** <br>
 Importing financial data from NSE-National Stock Exange of India <br>
 Creating dashboard i.e. Summary page <br>
